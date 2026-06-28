@@ -1,1 +1,0 @@
-Hello! My name is Xandra Wong, and I'm a 3rd year CS major.

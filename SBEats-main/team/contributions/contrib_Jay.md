@@ -1,3 +1,0 @@
-# Jay's Contributions
-
-I made the initial SB Eats search page that users could use to find different restaurants in IV and Goleta. I created a JSON list of restaurant data for establishments in IV and Goleta. I built a save feature to allow users to save restaurants that they may want to visit later. I also built a visit log so users can keep track of when they visited a particular restaurant. I also added some other minor features and UI changes, like the ability for users to change their username from the profile page and the ability for users to rate a particular restaurant for its value. For HW04, I contributed to the documentation of the project with a user manual and code comments.

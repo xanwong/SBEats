@@ -1,1 +1,0 @@
-My name is Karen and I am a third year computer science major, originally from San Diego.

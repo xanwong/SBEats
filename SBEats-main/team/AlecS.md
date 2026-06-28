@@ -1,1 +1,0 @@
-My name is Alec Sekimoto, I'm a fourth year computer science major from Los Angeles.

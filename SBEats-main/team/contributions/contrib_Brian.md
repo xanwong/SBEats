@@ -1,3 +1,0 @@
-# Brian Contributions
-
-I initialized the SBEats React Native application and setup the base project structure. I implemented authentication features including login, logout, and account creation. I built the leaderboard feature to highlight top users and developed the Discover page to recommend restaurants and users based on shared interests. I also implemented the friend request system to support adding and managing friends. In addition, I contributed to some of the project documentation and helped create product backlog requirements to help figure out what features/improvements to work on.
