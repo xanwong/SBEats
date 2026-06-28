@@ -1,0 +1,1 @@
+Hi! I'm Brian, a 4th year Computer Science major originally from the LA area. Excited to work on SBEats this quarter!

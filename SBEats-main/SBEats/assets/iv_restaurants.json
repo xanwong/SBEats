@@ -1,0 +1,2798 @@
+[
+    {
+        "name": "Antojitos La Paloma",
+        "address": "6543 Pardall Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-452-5458",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "2024-06",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2358",
+        "latitude": 34.4129732,
+        "longitude": -119.8557363
+    },
+    {
+        "name": "Asia 101",
+        "address": "903 Embarcadero del Norte",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-679-5395",
+        "categories": [
+            "Fusion",
+            "Japanese"
+        ],
+        "opened": "2023-08",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2301",
+        "latitude": 34.4129247,
+        "longitude": -119.855609
+    },
+    {
+        "name": "Bagel Cafe",
+        "address": "6551 Trigo Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-685-7114",
+        "categories": [
+            "Bakeries"
+        ],
+        "opened": null,
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/590",
+        "latitude": 34.4109847,
+        "longitude": -119.8570374
+    },
+    {
+        "name": "Blenders",
+        "address": "6560 Pardall Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-685-1134",
+        "categories": [
+            "Smoothies"
+        ],
+        "opened": "1995-03",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1378",
+        "latitude": 34.4132639,
+        "longitude": -119.8566681
+    },
+    {
+        "name": "Caje",
+        "address": "948 Embarcadero del Norte",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": null,
+        "categories": [
+            "Coffee"
+        ],
+        "opened": "2009-01",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1560",
+        "latitude": 34.4120372,
+        "longitude": -119.855222
+    },
+    {
+        "name": "Deja Vu Cafe",
+        "address": "966 Embarcadero del Mar",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-968-8888",
+        "categories": [
+            "Burgers"
+        ],
+        "opened": null,
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1084",
+        "latitude": 34.4118245,
+        "longitude": -119.8568227
+    },
+    {
+        "name": "Domino's",
+        "address": "955 Embarcadero del Mar",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-968-8272",
+        "categories": [
+            "Pizza"
+        ],
+        "opened": null,
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1269",
+        "latitude": 34.4121008,
+        "longitude": -119.8575157
+    },
+    {
+        "name": "Dublin's Sports Grill",
+        "address": "910 Embarcadero del Norte",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-685-1503",
+        "categories": [
+            "American"
+        ],
+        "opened": null,
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/902",
+        "latitude": 34.4129806,
+        "longitude": -119.8550859
+    },
+    {
+        "name": "Elubia's Kitchen",
+        "address": "6578 Trigo Rd Unit A",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-724-4877",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "2025-02",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2392",
+        "latitude": 34.43600906144083,
+        "longitude": -119.82592007834673
+    },
+    {
+        "name": "Freebirds World Burrito",
+        "address": "879 Embarcadero del Norte",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-968-0123",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "1987-06",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/852",
+        "latitude": 34.4132926,
+        "longitude": -119.8555889
+    },
+    {
+        "name": "Habit Burger & Grill",
+        "address": "888 Embarcadero del Norte",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-685-7474",
+        "categories": [
+            "Burgers"
+        ],
+        "opened": "2012-10",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1751",
+        "latitude": 34.4133556,
+        "longitude": -119.8551797
+    },
+    {
+        "name": "Hana Kitchen",
+        "address": "6558 Pardall Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-845-4054",
+        "categories": [
+            "Chinese",
+            "Japanese"
+        ],
+        "opened": "2012-10",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1756",
+        "latitude": 34.4132818,
+        "longitude": -119.8564863
+    },
+    {
+        "name": "Hummus Republic",
+        "address": "6546 Pardall Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-951-870-9022",
+        "categories": [
+            "Middle Eastern"
+        ],
+        "opened": "2022-05",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2254",
+        "latitude": 34.4132955,
+        "longitude": -119.8559139
+    },
+    {
+        "name": "I.V. Deli Mart",
+        "address": "6549 Pardall Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-562-8858",
+        "categories": [
+            "Deli",
+            "Mediterranean",
+            "Middle Eastern"
+        ],
+        "opened": "2003-03",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1107",
+        "latitude": 34.4129397,
+        "longitude": -119.8560592
+    },
+    {
+        "name": "I.V. Drip",
+        "address": "905 Embarcadero del Norte",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-968-4550",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": "2005-05",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1037",
+        "latitude": 34.4128884,
+        "longitude": -119.855609
+    },
+    {
+        "name": "I.V. Pizza and Pub",
+        "address": "6533 Trigo Rd Ste. 108",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-869-2264",
+        "categories": [
+            "Pizza"
+        ],
+        "opened": "2023-05",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2306",
+        "latitude": 34.41112470781355,
+        "longitude": -119.85547493416762
+    },
+    {
+        "name": "International Food Market",
+        "address": "6551 Trigo Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-968-6635",
+        "categories": [
+            "Markets"
+        ],
+        "opened": null,
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1415",
+        "latitude": 34.4109847,
+        "longitude": -119.8570374
+    },
+    {
+        "name": "Isla Vista Food Cooperative",
+        "address": "6575 Seville Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-968-1401",
+        "categories": [
+            "Deli",
+            "Markets"
+        ],
+        "opened": null,
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1474",
+        "latitude": 34.4115485,
+        "longitude": -119.857673
+    },
+    {
+        "name": "Isla Vista Market",
+        "address": "939 Embarcadero del Mar",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-968-3597",
+        "categories": [
+            "Markets"
+        ],
+        "opened": null,
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1416",
+        "latitude": 34.412308,
+        "longitude": -119.8573239
+    },
+    {
+        "name": "Kaiju",
+        "address": "901 Embarcadero del Mar",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-869-6316",
+        "categories": [
+            "Japanese"
+        ],
+        "opened": "2020-02",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2161",
+        "latitude": 34.4129569,
+        "longitude": -119.8573222
+    },
+    {
+        "name": "Keg N' Bottle Market",
+        "address": "915 Embarcadero del Mar",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-968-1316",
+        "categories": [
+            "Markets"
+        ],
+        "opened": null,
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1417",
+        "latitude": 34.4126714,
+        "longitude": -119.8572789
+    },
+    {
+        "name": "Kozy Craft Coffee",
+        "address": "6560 Pardall Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-953-5015",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": "2023-06",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2304",
+        "latitude": 34.4132639,
+        "longitude": -119.8566681
+    },
+    {
+        "name": "Lao Wang",
+        "address": "6530 Pardall Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-845-1614",
+        "categories": [
+            "Chinese"
+        ],
+        "opened": "2017-02",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1990",
+        "latitude": 34.4132742,
+        "longitude": -119.8547325
+    },
+    {
+        "name": "Maria's Tacos",
+        "address": "6545 Pardall Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-637-3492",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "2023-07",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2303",
+        "latitude": 34.4129732,
+        "longitude": -119.8557876
+    },
+    {
+        "name": "Mesa Pizza",
+        "address": "6576 Trigo Rd",
+        "city": "Isla Vista",
+        "zip": "93106",
+        "phone": "+1-805-688-1888",
+        "categories": [
+            "Pizza"
+        ],
+        "opened": "2025-10",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2422",
+        "latitude": 34.411261,
+        "longitude": -119.8575654
+    },
+    {
+        "name": "Naan Stop",
+        "address": "966 Embarcadero del Mar",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-685-4715",
+        "categories": [
+            "Indian"
+        ],
+        "opened": "2006-04",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1311",
+        "latitude": 34.4118245,
+        "longitude": -119.8568227
+    },
+    {
+        "name": "Oakberry",
+        "address": "6580 Pardall Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-837-5035",
+        "categories": [
+            "Smoothies"
+        ],
+        "opened": "2024-01",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2337",
+        "latitude": 34.4132937,
+        "longitude": -119.8577286
+    },
+    {
+        "name": "Old Town Coffee",
+        "address": "955 Embarcadero del Mar",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-324-4029",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": "2025-01",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2387",
+        "latitude": 34.4121008,
+        "longitude": -119.8575157
+    },
+    {
+        "name": "Poke Theory",
+        "address": "6530 Seville Rd",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-770-7228",
+        "categories": [
+            "Japanese"
+        ],
+        "opened": "2020-02",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2162",
+        "latitude": 34.41222839983282,
+        "longitude": -119.85488361882317
+    },
+    {
+        "name": "Rusty's Pizza",
+        "address": "6583 Pardall Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-564-1111",
+        "categories": [
+            "Pizza"
+        ],
+        "opened": "2025-03",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2397",
+        "latitude": 34.4128896,
+        "longitude": -119.8578018
+    },
+    {
+        "name": "Sam's To Go",
+        "address": "6560 Pardall Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-685-8895",
+        "categories": [
+            "Deli",
+            "Mexican"
+        ],
+        "opened": null,
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1270",
+        "latitude": 34.4132639,
+        "longitude": -119.8566681
+    },
+    {
+        "name": "Spudnuts",
+        "address": "6530 Seville Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-845-4517",
+        "categories": [
+            "Dessert"
+        ],
+        "opened": "2014-06",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1851",
+        "latitude": 34.4118973,
+        "longitude": -119.8548859
+    },
+    {
+        "name": "Starbucks",
+        "address": "888 Embarcadero del Norte",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-968-1192",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": null,
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1165",
+        "latitude": 34.4133556,
+        "longitude": -119.8551797
+    },
+    {
+        "name": "Su's Bowl",
+        "address": "901 Embarcadero del Mar",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-324-4040",
+        "categories": [
+            "Chinese"
+        ],
+        "opened": "2019-11",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2145",
+        "latitude": 34.4129569,
+        "longitude": -119.8573222
+    },
+    {
+        "name": "Super Cuca's",
+        "address": "6527 Madrid Rd",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-770-3806",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": null,
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1261",
+        "latitude": 34.4123137,
+        "longitude": -119.8550141
+    },
+    {
+        "name": "Sushiya Express",
+        "address": "955 Embarcadero del Mar",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-961-8272",
+        "categories": [
+            "Japanese"
+        ],
+        "opened": "2005-10",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1271",
+        "latitude": 34.4121008,
+        "longitude": -119.8575157
+    },
+    {
+        "name": "Sweet Hustle",
+        "address": "6529 Trigo Rd #B",
+        "city": "Isla Vista",
+        "zip": "93106",
+        "phone": "+1-805-699-0426",
+        "categories": [
+            "Dessert"
+        ],
+        "opened": "2025-11",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2421",
+        "latitude": 34.4110328,
+        "longitude": -119.8550733
+    },
+    {
+        "name": "Teddy Rice",
+        "address": "966 Embarcadero del Mar",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-770-2625",
+        "categories": [
+            "Japanese",
+            "Korean",
+            "Vietnamese"
+        ],
+        "opened": "2024-08",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2352",
+        "latitude": 34.4118245,
+        "longitude": -119.8568227
+    },
+    {
+        "name": "Wingstop",
+        "address": "888 Embarcadero del Norte",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-941-9464",
+        "categories": [
+            "American"
+        ],
+        "opened": "2021-10",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2226",
+        "latitude": 34.4133556,
+        "longitude": -119.8551797
+    },
+    {
+        "name": "Woodstock's Pizza",
+        "address": "928 Embarcadero del Norte",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-968-6969",
+        "categories": [
+            "Pizza"
+        ],
+        "opened": "1982-09",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/944",
+        "latitude": 34.412314,
+        "longitude": -119.8552
+    },
+    {
+        "name": "Yetz's Bagels",
+        "address": "901 Embarcadero del Mar",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-961-4555",
+        "categories": [
+            "Bakeries"
+        ],
+        "opened": "2024-03",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2353",
+        "latitude": 34.4129569,
+        "longitude": -119.8573222
+    },
+    {
+        "name": "Zocalo",
+        "address": "901 Embarcadero del Mar Ste. 101",
+        "city": "Isla Vista",
+        "zip": "93117",
+        "phone": "+1-805-252-9336",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "2022-04",
+        "closed": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/2253",
+        "latitude": 34.4132074577648,
+        "longitude": -119.857317332315
+    },
+        {
+        "name": "Albertsons",
+        "address": "5801 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-2318",
+        "categories": [
+            "Markets"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1080",
+        "latitude": 34.4406318,
+        "longitude": -119.8266832
+    },
+    {
+        "name": "Albertsons",
+        "address": "7127 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-968-3558",
+        "categories": [
+            "Markets"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1239",
+        "latitude": 34.4283741,
+        "longitude": -119.8765902
+    },
+    {
+        "name": "Altamirano's",
+        "address": "5838 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-681-3292",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1327",
+        "latitude": 34.4360617,
+        "longitude": -119.8275508
+    },
+    {
+        "name": "Anna's Bakery",
+        "address": "7018 Camino Real Marketplace",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-968-5590",
+        "categories": [
+            "Bakeries"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/950",
+        "latitude": 34.42946352450335, 
+        "longitude": -119.87215838853743
+    },
+    {
+        "name": "Backyard Bowls",
+        "address": "5668 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-770-2730",
+        "categories": [
+            "Smoothies"
+        ],
+        "opened": "2010-11",
+        "url": "https://www.santabarbara.com/dining/restaurants/1648",
+        "latitude": 34.441529654518064,
+        "longitude": -119.82318661082336
+    },
+    {
+        "name": "Blenders",
+        "address": "7014 Camino Real Marketplace",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-968-7319",
+        "categories": [
+            "Smoothies"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1381",
+        "latitude": 34.42946352429342, 
+        "longitude": -119.87203567745057
+    },
+    {
+        "name": "Blenders",
+        "address": "5743 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-2788",
+        "categories": [
+            "Smoothies"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1380",
+        "latitude": 34.4409254,
+        "longitude": -119.8244368
+    },
+    {
+        "name": "Ca' Dario Cucina Italiana",
+        "address": "250 Storke Rd",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-884-9419",
+        "categories": [
+            "Italian"
+        ],
+        "opened": "2018-01",
+        "url": "https://www.santabarbara.com/dining/restaurants/2043",
+        "latitude": 34.4295199,
+        "longitude": -119.8692497
+    },
+    {
+        "name": "Cajun Kitchen",
+        "address": "6831 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-571-1517",
+        "categories": [
+            "American",
+            "Cajun / Creole"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1141",
+        "latitude": 34.4298894,
+        "longitude": -119.8670623
+    },
+    {
+        "name": "Cajun Kitchen",
+        "address": "6025 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-770-3265",
+        "categories": [
+            "American"
+        ],
+        "opened": "2017-07",
+        "url": "https://www.santabarbara.com/dining/restaurants/2010",
+        "latitude": 34.44105284258071, 
+        "longitude": -119.83150434695912
+    },
+    {
+        "name": "Cal Taco",
+        "address": "7320 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-685-7122",
+        "categories": [
+            "Burgers",
+            "Mexican"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/874",
+        "latitude": 34.4303938,
+        "longitude": -119.882268
+    },
+    {
+        "name": "Carl's Jr",
+        "address": "5820 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-681-0584",
+        "categories": [
+            "Burgers"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1073",
+        "latitude": 34.4417602,
+        "longitude": -119.8261764
+    },
+    {
+        "name": "Caya Restaurant",
+        "address": "5650 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-1288",
+        "categories": [
+            "American"
+        ],
+        "opened": "2022-11",
+        "url": "https://www.santabarbara.com/dining/restaurants/2295",
+        "latitude": 34.441907,
+        "longitude": -119.8210265
+    },
+    {
+        "name": "Chili's Grill & Bar",
+        "address": "6950 Camino Real Marketplace",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-968-8585",
+        "categories": [
+            "American",
+            "Burgers"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/636",
+        "latitude": 34.429734367877714,
+        "longitude": -119.87055787402515
+    },
+    {
+        "name": "China King",
+        "address": "5915B Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-967-1838",
+        "categories": [
+            "Chinese"
+        ],
+        "opened": "2015-11",
+        "url": "https://www.santabarbara.com/dining/restaurants/1918",
+        "latitude": 34.441192642797, 
+        "longitude": -119.82840145903671
+    },
+    {
+        "name": "Chipotle",
+        "address": "270 S. Storke Rd",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-685-1265",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "2010-11",
+        "url": "https://www.santabarbara.com/dining/restaurants/1647",
+        "latitude": 34.42917992791389,
+        "longitude": -119.86940809930354
+    },
+    {
+        "name": "Choppa Poke",
+        "address": "7000 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-770-3826",
+        "categories": [
+            "Fusion",
+            "Japanese",
+            "Tropical"
+        ],
+        "opened": "2018-09",
+        "url": "https://www.santabarbara.com/dining/restaurants/1970",
+        "latitude": 34.4305704215509, 
+        "longitude": -119.87240794025121
+    },
+    {
+        "name": "Cody's Cafe",
+        "address": "4898 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-683-5141",
+        "categories": [
+            "American"
+        ],
+        "opened": "1995-07",
+        "url": "https://www.santabarbara.com/dining/restaurants/643",
+        "latitude": 34.4303285,
+        "longitude": -119.8596785
+    },
+    {
+        "name": "Cold Stone Creamery",
+        "address": "5718 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-692-1598",
+        "categories": [
+            "Dessert",
+            "Smoothies"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1358",
+        "latitude": 34.44169312702391, 
+        "longitude": -119.82406037218428
+    },
+    {
+        "name": "Costa Terraza at Airport",
+        "address": "500 Fowler Rd",
+        "city": "Santa Barbara",
+        "zip": "93105",
+        "phone": "+1-805-770-2382",
+        "categories": [
+            "Spanish"
+        ],
+        "opened": "2011-08",
+        "url": "https://www.santabarbara.com/dining/restaurants/1708",
+        "latitude": 34.4244854,
+        "longitude": -119.8364037
+    },
+    {
+        "name": "Costco Bakery",
+        "address": "7095 Marketplace Dr",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-685-3199",
+        "categories": [
+            "Bakeries"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1759",
+        "latitude": 34.427723,
+        "longitude": -119.8748415
+    },
+    {
+        "name": "Costco Food Court",
+        "address": "7095 Marketplace Dr",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-685-7299",
+        "categories": [
+            "Hot Dogs",
+            "Pizza",
+            "Smoothies"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1075",
+        "latitude": 34.427723,
+        "longitude": -119.8748415
+    },
+    {
+        "name": "Country Meat Market",
+        "address": "5925 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-3811",
+        "categories": [
+            "Deli"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1319",
+        "latitude": 34.4407056,
+        "longitude": -119.8287782
+    },
+    {
+        "name": "Creekside Restaurant & Bar",
+        "address": "4444 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-770-3200",
+        "categories": [
+            "American",
+            "BBQ"
+        ],
+        "opened": "2017-04",
+        "url": "https://www.santabarbara.com/dining/restaurants/2042",
+        "latitude": 34.4302899,
+        "longitude": -119.8601508
+    },
+    {
+        "name": "Cristino's Bakery",
+        "address": "170 Aero Camino",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-455-6900",
+        "categories": [
+            "Bakeries"
+        ],
+        "opened": "2017-10",
+        "url": "https://www.santabarbara.com/dining/restaurants/2052",
+        "latitude": 34.4323331,
+        "longitude": -119.8479878
+    },
+    {
+        "name": "Crumbl Cookies",
+        "address": "5660 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-209-791-0047",
+        "categories": [
+            "Dessert"
+        ],
+        "opened": "2023-09",
+        "url": "https://www.santabarbara.com/dining/restaurants/2300",
+        "latitude": 34.4415298,
+        "longitude": -119.8229023
+    },
+    {
+        "name": "Crushcakes",
+        "address": "5392 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-845-2200",
+        "categories": [
+            "American",
+            "Bakeries"
+        ],
+        "opened": "2015-08",
+        "url": "https://www.santabarbara.com/dining/restaurants/1910",
+        "latitude": 34.4353966,
+        "longitude": -119.812306
+    },
+    {
+        "name": "Dave's Dogs",
+        "address": "149 S. Turnpike Rd",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-770-7772",
+        "categories": [
+            "Hot Dogs"
+        ],
+        "opened": "2017-09",
+        "url": "https://www.santabarbara.com/dining/restaurants/2020",
+        "latitude": 34.437719656965015, 
+        "longitude": -119.78967377575162
+    },
+    {
+        "name": "Dave's Drip House",
+        "address": "193 S. Turnpike Rd",
+        "city": "Santa Barbara",
+        "zip": "93105",
+        "phone": "+1-805-869-2128",
+        "categories": [
+            "Dessert"
+        ],
+        "opened": "2023-01",
+        "url": "https://www.santabarbara.com/dining/restaurants/2319",
+        "latitude": 34.437981,
+        "longitude": -119.7895476
+    },
+    {
+        "name": "Dean Coffee Shop",
+        "address": "6100-1 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-350-4110",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": "2020-08",
+        "url": "https://www.santabarbara.com/dining/restaurants/2188",
+        "latitude": 34.4303285,
+        "longitude": -119.8596785
+    },
+    {
+        "name": "Del Pueblo Cafe",
+        "address": "5134 Hollister Ave",
+        "city": "Santa Barbara",
+        "zip": "93105",
+        "phone": "+1-805-692-8800",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/651",
+        "latitude": 34.4359638,
+        "longitude": -119.8028958
+    },
+    {
+        "name": "Del Valle Grill",
+        "address": "5746 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-683-1719",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "2007-09",
+        "url": "https://www.santabarbara.com/dining/restaurants/1477",
+        "latitude": 34.435906,
+        "longitude": -119.824867
+    },
+    {
+        "name": "Domingo's Cafe",
+        "address": "5782 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-967-0655",
+        "categories": [
+            "American",
+            "Mexican"
+        ],
+        "opened": "2005-02",
+        "url": "https://www.santabarbara.com/dining/restaurants/1093",
+        "latitude": 34.435974,
+        "longitude": -119.826016
+    },
+    {
+        "name": "Domino's",
+        "address": "185 S. Patterson Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-683-1155",
+        "categories": [
+            "Pizza"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1018",
+        "latitude": 34.4356022,
+        "longitude": -119.8095419
+    },
+    {
+        "name": "Drover's Doughnuts",
+        "address": "5745 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-869-2570",
+        "categories": [
+            "Dessert"
+        ],
+        "opened": "2026-01",
+        "url": "https://www.santabarbara.com/dining/restaurants/2468",
+        "latitude": 34.4409188,
+        "longitude": -119.824517
+    },
+    {
+        "name": "Dune Coffee Roasters",
+        "address": "250 Storke Rd",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-968-0493",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": "2016-02",
+        "url": "https://www.santabarbara.com/dining/restaurants/1939",
+        "latitude": 34.42949453222655, 
+        "longitude": -119.86940753156722
+    },
+    {
+        "name": "Dune Coffee Roasters",
+        "address": "5915 Calle Real Ste. A",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-869-2748",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": "2021-12",
+        "url": "https://www.santabarbara.com/dining/restaurants/2236",
+        "latitude": 34.44133646347415,
+        "longitude": -119.8283808006255
+    },
+    {
+        "name": "Dutch Garden Restaurant",
+        "address": "4203 State St",
+        "city": "Santa Barbara",
+        "zip": "93101",
+        "phone": "+1-805-967-4911",
+        "categories": [
+            "German"
+        ],
+        "opened": "1949-11",
+        "url": "https://www.santabarbara.com/dining/restaurants/655",
+        "latitude": 34.440378025322346, 
+        "longitude": -119.7633523257878
+    },
+    {
+        "name": "El Capitan Canyon",
+        "address": "11560 Calle Real",
+        "city": "Santa Barbara",
+        "zip": "93105",
+        "phone": "+1-805-685-3887",
+        "categories": [
+            "Californian"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1689",
+        "latitude": 34.46457385532237, 
+        "longitude": -120.02217458733912
+    },
+    {
+        "name": "El Sitio",
+        "address": "7398 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-685-4888",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1262",
+        "latitude": 34.4335756,
+        "longitude": -119.8847092
+    },
+    {
+        "name": "El Sitio",
+        "address": "102 S. Fairview Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-6104",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1263",
+        "latitude": 34.437253200221356, 
+        "longitude": -119.83043591892148
+    },
+    {
+        "name": "Elubia's Kitchen",
+        "address": "325 Rutherford St",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-364-2177",
+        "categories": [
+            "Latin American",
+            "Mexican"
+        ],
+        "opened": "2019-06",
+        "url": "https://www.santabarbara.com/dining/restaurants/2163",
+        "latitude": 34.4347364,
+        "longitude": -119.8258308
+    },
+    {
+        "name": "Ethnic Breads",
+        "address": "137 Aero Camino",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-569-9244",
+        "categories": [
+            "Bakeries"
+        ],
+        "opened": "2024-04",
+        "url": "https://www.santabarbara.com/dining/restaurants/2345",
+        "latitude": 34.4333376,
+        "longitude": -119.8489923
+    },
+    {
+        "name": "European Deli & Market",
+        "address": "4422 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-6600",
+        "categories": [
+            "Markets"
+        ],
+        "opened": "2009-04",
+        "url": "https://www.santabarbara.com/dining/restaurants/1578",
+        "latitude": 34.4303285,
+        "longitude": -119.8596785
+    },
+    {
+        "name": "Finney's Crafthouse & Kitchen",
+        "address": "6980 Marketplace Dr",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-292-0710",
+        "categories": [
+            "American"
+        ],
+        "opened": "2024-12",
+        "url": "https://www.santabarbara.com/dining/restaurants/2382",
+        "latitude": 34.4295573,
+        "longitude": -119.8711359
+    },
+    {
+        "name": "Frog Bar & Grill at GlenAnnie",
+        "address": "301 Glen Annie Rd",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-968-0664",
+        "categories": [
+            "American"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/677",
+        "latitude": 34.443112190119656, 
+        "longitude": -119.88008872823717
+    },
+    {
+        "name": "Goleta Bakery",
+        "address": "5784 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-967-2601",
+        "categories": [
+            "Bakeries"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/956",
+        "latitude": 34.436064,
+        "longitude": -119.826081
+    },
+    {
+        "name": "Goleta Sushi House",
+        "address": "5744 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-683-8724",
+        "categories": [
+            "Japanese"
+        ],
+        "opened": "2006-07",
+        "url": "https://www.santabarbara.com/dining/restaurants/1322",
+        "latitude": 34.43590,
+        "longitude": -119.82479
+    },
+    {
+        "name": "Habit Burger & Grill",
+        "address": "5735 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-0366",
+        "categories": [
+            "Burgers"
+        ],
+        "opened": "1969-06",
+        "url": "https://www.santabarbara.com/dining/restaurants/831",
+        "latitude": 34.43548224989132, 
+        "longitude": -119.82474276293777
+    },
+    {
+        "name": "Handlebar Coffee",
+        "address": "2720 De la Vina St",
+        "city": "Santa Barbara",
+        "zip": "93105",
+        "phone": "+1-719-201-3931",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": "2017-09",
+        "url": "https://www.santabarbara.com/dining/restaurants/2026",
+        "latitude": 34.436292,
+        "longitude": -119.725528
+    },
+    {
+        "name": "Hochaya Tea House",
+        "address": "7060 Hollister Ave",
+        "city": "goleta",
+        "zip": "93117",
+        "phone": "+1-805-324-4939",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": "2021-11",
+        "url": "https://www.santabarbara.com/dining/restaurants/2440",
+        "latitude": 34.4311152,
+        "longitude": -119.8738434
+    },
+    {
+        "name": "Home Plate Grill",
+        "address": "7398 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-845-3323",
+        "categories": [
+            "American"
+        ],
+        "opened": "2016-01",
+        "url": "https://www.santabarbara.com/dining/restaurants/1936",
+        "latitude": 34.4335756,
+        "longitude": -119.8847092
+    },
+    {
+        "name": "IHOP",
+        "address": "7127 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-562-0056",
+        "categories": [
+            "American"
+        ],
+        "opened": "2022-11",
+        "url": "https://www.santabarbara.com/dining/restaurants/2286",
+        "latitude": 34.4283741,
+        "longitude": -119.8765902
+    },
+    {
+        "name": "In-N-Out Burger",
+        "address": "4865 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-800-786-1000",
+        "categories": [
+            "Burgers"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/889",
+        "latitude": 34.4429104,
+        "longitude": -119.7907162
+    },
+    {
+        "name": "Indo-China",
+        "address": "6831 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-968-3353",
+        "categories": [
+            "Markets"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1760",
+        "latitude": 34.4298894,
+        "longitude": -119.8670623
+    },
+    {
+        "name": "J's Hot Chicken inside Dave's Drip House",
+        "address": "199 S. Turnpike Rd Ste. 104",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-869-2128",
+        "categories": [
+            "American"
+        ],
+        "opened": "2024-12",
+        "url": "https://www.santabarbara.com/dining/restaurants/2383",
+        "latitude": 34.43688179037048,
+        "longitude": -119.78972680184548
+    },
+    {
+        "name": "Jack in the Box",
+        "address": "6875 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-685-8552",
+        "categories": [
+            "Burgers"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1225",
+        "latitude": 34.429911,
+        "longitude": -119.8687786
+    },
+    {
+        "name": "Jane",
+        "address": "6940 Marketplace Dr",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-770-5388",
+        "categories": [
+            "American"
+        ],
+        "opened": "2016-04",
+        "url": "https://www.santabarbara.com/dining/restaurants/1948",
+        "latitude": 34.4295551,
+        "longitude": -119.8702404
+    },
+    {
+        "name": "Jeannine's Bakery",
+        "address": "7060 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-687-8701",
+        "categories": [
+            "American",
+            "Bakeries"
+        ],
+        "opened": "2019-09",
+        "url": "https://www.santabarbara.com/dining/restaurants/2135",
+        "latitude": 34.4311152,
+        "longitude": -119.8738434
+    },
+    {
+        "name": "Jersey Mike's Subs",
+        "address": "7034 Marketplace Dr",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-685-1122",
+        "categories": [
+            "Deli"
+        ],
+        "opened": "2012-03",
+        "url": "https://www.santabarbara.com/dining/restaurants/1725",
+        "latitude": 34.4295537,
+        "longitude": -119.8725158
+    },
+    {
+        "name": "Jersey Mike's Subs",
+        "address": "163 N. Fairview Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-695-2002",
+        "categories": [
+            "Deli"
+        ],
+        "opened": "2021-12",
+        "url": "https://www.santabarbara.com/dining/restaurants/2237",
+        "latitude": 34.4414613885964, 
+        "longitude": -119.83272203767045
+    },
+    {
+        "name": "Jersey Mike's Subs",
+        "address": "199 S. Turnpike Rd",
+        "city": "Santa Barbara",
+        "zip": "93105",
+        "phone": "+1-805-259-3482",
+        "categories": [
+            "Deli"
+        ],
+        "opened": "2022-11",
+        "url": "https://www.santabarbara.com/dining/restaurants/2282",
+        "latitude": 34.436913,
+        "longitude": -119.7898561
+    },
+    {
+        "name": "Jonesy's Fried Chicken",
+        "address": "282 Orange Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-770-2428",
+        "categories": [
+            "American"
+        ],
+        "opened": "2024-06",
+        "url": "https://www.santabarbara.com/dining/restaurants/2340",
+        "latitude": 34.434163,
+        "longitude": -119.828584
+    },
+    {
+        "name": "KFC",
+        "address": "5697 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-967-0702",
+        "categories": [
+            "American"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1081",
+        "latitude": 34.4407896,
+        "longitude": -119.823381
+    },
+    {
+        "name": "Kin Bakeshop",
+        "address": "199 S. Turnpike Rd Ste. 103",
+        "city": "Santa Barbara",
+        "zip": "93111",
+        "phone": "+1-805-705-8498",
+        "categories": [
+            "Bakeries"
+        ],
+        "opened": "2023-05",
+        "url": "https://www.santabarbara.com/dining/restaurants/2307",
+        "latitude": 34.43686838448648,
+        "longitude": -119.78989808223946
+    },
+    {
+        "name": "Kyle's Kitchen",
+        "address": "5723 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-845-2260",
+        "categories": [
+            "American",
+            "Burgers"
+        ],
+        "opened": "2014-09",
+        "url": "https://www.santabarbara.com/dining/restaurants/2544",
+        "latitude": 34.4409167,
+        "longitude": -119.8240939
+    },
+    {
+        "name": "Kyle's Kitchen",
+        "address": "7000 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-845-3436",
+        "categories": [
+            "American"
+        ],
+        "opened": "2017-10",
+        "url": "https://www.santabarbara.com/dining/restaurants/2540",
+        "latitude": 34.43051046853502, 
+        "longitude": -119.87227942218794
+    },
+    {
+        "name": "Kyle's Taproom",
+        "address": "7000 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-845-3436",
+        "categories": [
+            "American"
+        ],
+        "opened": "2022-10",
+        "url": "https://www.santabarbara.com/dining/restaurants/2288",
+        "latitude": 34.43055825706396, 
+        "longitude": -119.87232050570749
+    },
+    {
+        "name": "L & L Hawaiian Barbecue",
+        "address": "7127 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-968-8880",
+        "categories": [
+            "BBQ",
+            "Tropical"
+        ],
+        "opened": "2006-01",
+        "url": "https://www.santabarbara.com/dining/restaurants/1390",
+        "latitude": 34.4283741,
+        "longitude": -119.8765902
+    },
+    {
+        "name": "La Cantina",
+        "address": "199 S. Turnpike Rd Ste 106",
+        "city": "Santa Barbara",
+        "zip": "93105",
+        "phone": "+1-805-869-2831",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "2024-09",
+        "url": "https://www.santabarbara.com/dining/restaurants/2370",
+        "latitude": 34.43686148316618,
+        "longitude": -119.78999186055255
+    },
+    {
+        "name": "La Chapala Market",
+        "address": "5780 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-681-0277",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1113",
+        "latitude": 34.4359682,
+        "longitude": -119.825872
+    },
+    {
+        "name": "La Guerrerita",
+        "address": "5698 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-3136",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "2018-09",
+        "url": "https://www.santabarbara.com/dining/restaurants/2084",
+        "latitude": 34.435827,
+        "longitude": -119.8230588
+    },
+    {
+        "name": "La Hacienda",
+        "address": "298 Pine Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-770-8488",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "2017-06",
+        "url": "https://www.santabarbara.com/dining/restaurants/1875",
+        "latitude": 34.435041,
+        "longitude": -119.826277
+    },
+    {
+        "name": "La Mission Cafe",
+        "address": "500 Fowler Rd",
+        "city": "Santa Barbara",
+        "zip": "93105",
+        "phone": "+1 ",
+        "categories": [
+            "American",
+            "Mexican"
+        ],
+        "opened": "2015-01",
+        "url": "https://www.santabarbara.com/dining/restaurants/1870",
+        "latitude": 34.4244854,
+        "longitude": -119.8364037
+    },
+    {
+        "name": "Lassen's Health Food",
+        "address": "5154 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-683-7696",
+        "categories": [
+            "Markets"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1443",
+        "latitude": 34.4303285,
+        "longitude": -119.8596785
+    },
+    {
+        "name": "Lighthouse Coffee",
+        "address": "199 S. Turnpike Rd Ste 101",
+        "city": "Santa Barbara",
+        "zip": "93105",
+        "phone": "+1-805-679-5153",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": "2022-04",
+        "url": "https://www.santabarbara.com/dining/restaurants/2256",
+        "latitude": 34.43688408361694,
+        "longitude": -119.78972754227443
+    },
+    {
+        "name": "Lighthouse Coffee",
+        "address": "5696 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-679-5424",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": "2024-03",
+        "url": "https://www.santabarbara.com/dining/restaurants/2350",
+        "latitude": 34.4415997,
+        "longitude": -119.8240944
+    },
+    {
+        "name": "Lilly's Taqueria",
+        "address": "290 Storke Rd",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-845-9180",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "2013-12",
+        "url": "https://www.santabarbara.com/dining/restaurants/1817",
+        "latitude": 34.4283612,
+        "longitude": -119.8692773
+    },
+    {
+        "name": "Little Caesars",
+        "address": "109 S. Fairview Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-967-5000",
+        "categories": [
+            "Pizza"
+        ],
+        "opened": "2013-07",
+        "url": "https://www.santabarbara.com/dining/restaurants/1795",
+        "latitude": 34.43754894495808, 
+        "longitude": -119.83115412747239
+    },
+    {
+        "name": "Los Agaves",
+        "address": "7024 Marketplace Dr",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-968-4000",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "2014-10",
+        "url": "https://www.santabarbara.com/dining/restaurants/1863",
+        "latitude": 34.4295883,
+        "longitude": -119.8722792
+    },
+    {
+        "name": "Los Altos",
+        "address": "5892 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-869-2436",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "2023-05",
+        "url": "https://www.santabarbara.com/dining/restaurants/2308",
+        "latitude": 34.4361427,
+        "longitude": -119.8289202
+    },
+    {
+        "name": "Los Arroyos",
+        "address": "5764 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-770-8209",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "2017-06",
+        "url": "https://www.santabarbara.com/dining/restaurants/2004",
+        "latitude": 34.4416881,
+        "longitude": -119.825346
+    },
+    {
+        "name": "Lulio at the Ritz-Carlton Bacara",
+        "address": "8301 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-968-0100",
+        "categories": [
+            "Mediterranean"
+        ],
+        "opened": "2025-06",
+        "url": "https://www.santabarbara.com/dining/restaurants/2410",
+        "latitude": 34.4334764,
+        "longitude": -119.9184596
+    },
+    {
+        "name": "Marisella at the Ritz-Carlton Bacara",
+        "address": "8301 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-968-0100",
+        "categories": [
+            "Californian",
+            "Mediterranean"
+        ],
+        "opened": "2025-06",
+        "url": "https://www.santabarbara.com/dining/restaurants/2411",
+        "latitude": 34.4334764,
+        "longitude": -119.9184596
+    },
+    {
+        "name": "Masala Spice",
+        "address": "5796 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-770-8989",
+        "categories": [
+            "Indian"
+        ],
+        "opened": "2019-01",
+        "url": "https://www.santabarbara.com/dining/restaurants/2109",
+        "latitude": 34.4417259,
+        "longitude": -119.8257805
+    },
+    {
+        "name": "McDonald's",
+        "address": "146 S. Fairview Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-6313",
+        "categories": [
+            "Burgers"
+        ],
+        "opened": "1968-01",
+        "url": "https://www.santabarbara.com/dining/restaurants/1208",
+        "latitude": 34.4368692,
+        "longitude": -119.8301974
+    },
+    {
+        "name": "McDonald's",
+        "address": "6900 Camino Real Marketplace",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-961-8159",
+        "categories": [
+            "Burgers"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1209",
+        "latitude": 34.42904018191859, 
+        "longitude": -119.87013388083409
+    },
+    {
+        "name": "Meun Fan Thai Cafe",
+        "address": "5664 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-681-0588",
+        "categories": [
+            "Thai"
+        ],
+        "opened": "2017-04",
+        "url": "https://www.santabarbara.com/dining/restaurants/2001",
+        "latitude": 34.441515305930864, 
+        "longitude": -119.82299407495199
+    },
+    {
+        "name": "Natural Cafe",
+        "address": "6990 Marketplace Dr",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-692-2363",
+        "categories": [
+            "American",
+            "Californian",
+            "Vegetarian",
+            "Smoothies"
+        ],
+        "opened": "2014-10",
+        "url": "https://www.santabarbara.com/dining/restaurants/1146",
+        "latitude": 34.4295103,
+        "longitude": -119.8712779
+    },
+    {
+        "name": "Nikka Fish Grill",
+        "address": "5722 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-967-2600",
+        "categories": [
+            "Seafood"
+        ],
+        "opened": "2012-07",
+        "url": "https://www.santabarbara.com/dining/restaurants/1739",
+        "latitude": 34.4416039,
+        "longitude": -119.8243555
+    },
+    {
+        "name": "Nikka Ramen",
+        "address": "5701 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-845-7755",
+        "categories": [
+            "Japanese"
+        ],
+        "opened": "2016-11",
+        "url": "https://www.santabarbara.com/dining/restaurants/1980",
+        "latitude": 34.44077960033601, 
+        "longitude": -119.82355081567151
+    },
+    {
+        "name": "Noodle City",
+        "address": "5869 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-683-6818",
+        "categories": [
+            "Vietnamese"
+        ],
+        "opened": "2007-11",
+        "url": "https://www.santabarbara.com/dining/restaurants/1491",
+        "latitude": 34.43581782143154, 
+        "longitude": -119.82824064152902
+    },
+    {
+        "name": "Nothing Bundt Cakes",
+        "address": "5784 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-845-4899",
+        "categories": [
+            "Dessert"
+        ],
+        "opened": "2016-01",
+        "url": "https://www.santabarbara.com/dining/restaurants/1932",
+        "latitude": 34.4417208,
+        "longitude": -119.8256748
+    },
+    {
+        "name": "Oat Bakery",
+        "address": "231 S. Magnolia Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-845-4300",
+        "categories": [
+            "Bakeries"
+        ],
+        "opened": "2022-11",
+        "url": "https://www.santabarbara.com/dining/restaurants/2283",
+        "latitude": 34.4349104,
+        "longitude": -119.827821
+    },
+    {
+        "name": "Old Town Coffee",
+        "address": "5877 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-845-1550",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": "2018-08",
+        "url": "https://www.santabarbara.com/dining/restaurants/2074",
+        "latitude": 34.435831345417625, 
+        "longitude": -119.82843951100536
+    },
+    {
+        "name": "On the Alley",
+        "address": "7038 Marktplace Dr",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-845-8096",
+        "categories": [
+            "American"
+        ],
+        "opened": "2015-09",
+        "url": "https://www.santabarbara.com/dining/restaurants/1912",
+        "latitude": 34.42950483625561,
+        "longitude": -119.87260068815948
+    },
+    {
+        "name": "Panda Express",
+        "address": "131 N. Fairview Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-683-1857",
+        "categories": [
+            "Chinese"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1287",
+        "latitude": 34.4416296,
+        "longitude": -119.8327241
+    },
+    {
+        "name": "Panino",
+        "address": "5666 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-683-3670",
+        "categories": [
+            "Deli",
+            "Italian"
+        ],
+        "opened": "2007-02",
+        "url": "https://www.santabarbara.com/dining/restaurants/1433",
+        "latitude": 34.4415387,
+        "longitude": -119.8231343
+    },
+    {
+        "name": "Pepe's Mexican Restaurant",
+        "address": "254 Orange Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-967-0313",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "1958-10",
+        "url": "https://www.santabarbara.com/dining/restaurants/757",
+        "latitude": 34.4351563,
+        "longitude": -119.8287337
+    },
+    {
+        "name": "Phamous Cafe",
+        "address": "7127 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-845-9881",
+        "categories": [
+            "Vietnamese"
+        ],
+        "opened": "2016-05",
+        "url": "https://www.santabarbara.com/dining/restaurants/1950",
+        "latitude": 34.42824630246444, 
+        "longitude": -119.87637349635207
+    },
+    {
+        "name": "Pokewaves",
+        "address": "4791 Calle Real #102",
+        "city": "Santa Barbara",
+        "zip": "93110",
+        "phone": "+1-805-404-1591",
+        "categories": [
+            "Japanese"
+        ],
+        "opened": "2023-06",
+        "url": "https://www.santabarbara.com/dining/restaurants/2326",
+        "latitude": 34.4435062,
+        "longitude": -119.7889904
+    },
+    {
+        "name": "Pollofino",
+        "address": "6831 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-685-1141",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/921",
+        "latitude": 34.4298894,
+        "longitude": -119.8670623
+    },
+    {
+        "name": "Ralphs",
+        "address": "5170 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-692-0022",
+        "categories": [
+            "Deli",
+            "Markets"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1260",
+        "latitude": 34.4359096,
+        "longitude": -119.803846
+    },
+    {
+        "name": "Roof Top Bistro & Bar at the Hilton",
+        "address": "6878 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-562-5996",
+        "categories": [
+            "American"
+        ],
+        "opened": "2017-11",
+        "url": "https://www.santabarbara.com/dining/restaurants/2444",
+        "latitude": 34.4310221,
+        "longitude": -119.8687701
+    },
+    {
+        "name": "Rusty's Pizza",
+        "address": "5934 Calle Real in Goleta",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-564-1111",
+        "categories": [
+            "Pizza"
+        ],
+        "opened": "2016-02",
+        "url": "https://www.santabarbara.com/dining/restaurants/1934",
+        "latitude": 34.429057863541445,
+        "longitude": -119.86938370845579
+    },
+    {
+        "name": "Rusty's Pizza",
+        "address": "270 Storke Rd",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-564-1111",
+        "categories": [
+            "Pizza"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1176",
+        "latitude": 34.4291293,
+        "longitude": -119.8695199
+    },
+    {
+        "name": "Rusty's Pizza",
+        "address": "4880 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-564-1111",
+        "categories": [
+            "Pizza"
+        ],
+        "opened": "2017-07",
+        "url": "https://www.santabarbara.com/dining/restaurants/2011",
+        "latitude": 34.4303285,
+        "longitude": -119.8596785
+    },
+    {
+        "name": "Rusty's Pizza",
+        "address": "4880 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-564-1111",
+        "categories": [
+            "Pizza"
+        ],
+        "opened": "2017-06",
+        "url": "https://www.santabarbara.com/dining/restaurants/1178",
+        "latitude": 34.4303285,
+        "longitude": -119.8596785
+    },
+    {
+        "name": "Saigon Noodle House",
+        "address": "6831 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-968-5116",
+        "categories": [
+            "Vietnamese"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/979",
+        "latitude": 34.42941526017624, 
+        "longitude": -119.86711127822574
+    },
+    {
+        "name": "Sam's To Go",
+        "address": "6831 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-685-3022",
+        "categories": [
+            "Deli"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/933",
+        "latitude": 34.429962359660564, 
+        "longitude": -119.86702498448408
+    },
+    {
+        "name": "Sandpiper Grill",
+        "address": "7925 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-968-1541",
+        "categories": [
+            "American",
+            "Californian"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1690",
+        "latitude": 34.4295714,
+        "longitude": -119.9015104
+    },
+    {
+        "name": "Santa Barbara Chicken Ranch",
+        "address": "149 N. Fairview Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-692-9200",
+        "categories": [
+            "BBQ",
+            "Mexican"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1216",
+        "latitude": 34.4418028,
+        "longitude": -119.8327303
+    },
+    {
+        "name": "Santa Barbara Fish Market",
+        "address": "7127 Hollister Ave Ste. 18",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-966-1000",
+        "categories": [
+            "Seafood",
+            "Markets"
+        ],
+        "opened": "2023-10",
+        "url": "https://www.santabarbara.com/dining/restaurants/2298",
+        "latitude": 34.42862186376764,
+        "longitude": -119.8766638853942
+    },
+    {
+        "name": "Santa Barbara Sunshine Cafe",
+        "address": "5711 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-898-9121",
+        "categories": [
+            "American"
+        ],
+        "opened": "2023-12",
+        "url": "https://www.santabarbara.com/dining/restaurants/2338",
+        "latitude": 34.44081357250379, 
+        "longitude": -119.82375663572533
+    },
+    {
+        "name": "Santa Cruz Market",
+        "address": "5757 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-967-9510",
+        "categories": [
+            "Markets"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1418",
+        "latitude": 34.435635,
+        "longitude": -119.825394
+    },
+    {
+        "name": "Shalhoob's",
+        "address": "5112 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-880-0733",
+        "categories": [
+            "American",
+            "BBQ"
+        ],
+        "opened": "2024-04",
+        "url": "https://www.santabarbara.com/dining/restaurants/2344",
+        "latitude": 34.435383144462506, 
+        "longitude": -119.80291271838931
+    },
+    {
+        "name": "Slodoco Donuts",
+        "address": "290 Storke Rd Ste A",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-770-3060",
+        "categories": [
+            "Dessert"
+        ],
+        "opened": "2024-10",
+        "url": "https://www.santabarbara.com/dining/restaurants/2377",
+        "latitude": 34.428398376349435,
+        "longitude": -119.86946535634006
+    },
+    {
+        "name": "Smart & Final Extra!",
+        "address": "7090 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-961-4519",
+        "categories": [
+            "Markets"
+        ],
+        "opened": "2015-12",
+        "url": "https://www.santabarbara.com/dining/restaurants/1923",
+        "latitude": 34.4309409,
+        "longitude": -119.8749698
+    },
+    {
+        "name": "South Coast Deli",
+        "address": "185 S. Patterson Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-967-8226",
+        "categories": [
+            "Deli",
+            "Smoothies"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1313",
+        "latitude": 34.4356022,
+        "longitude": -119.8095419
+    },
+    {
+        "name": "Sprouts Farmers Market",
+        "address": "175 N. Fairview Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-979-9589",
+        "categories": [
+            "Markets"
+        ],
+        "opened": "2016-08",
+        "url": "https://www.santabarbara.com/dining/restaurants/1974",
+        "latitude": 34.4422916,
+        "longitude": -119.832381
+    },
+    {
+        "name": "Spudnuts",
+        "address": "5718 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-845-1888",
+        "categories": [
+            "Dessert"
+        ],
+        "opened": "2011-01",
+        "url": "https://www.santabarbara.com/dining/restaurants/1657",
+        "latitude": 34.4358493,
+        "longitude": -119.8237949
+    },
+    {
+        "name": "Starbucks",
+        "address": "7127 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-681-7474",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": "2018-05",
+        "url": "https://www.santabarbara.com/dining/restaurants/2061",
+        "latitude": 34.42817831545089, 
+        "longitude": -119.8765856021566
+    },
+    {
+        "name": "Starbucks",
+        "address": "7030 Marketplace DR",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-968-2591",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1166",
+        "latitude": 34.4295715,
+        "longitude": -119.8724395
+    },
+    {
+        "name": "Starbucks",
+        "address": "173 N. Fairview Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-681-1088",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1164",
+        "latitude": 34.44189293605069,
+        "longitude": -119.83244840842224
+    },
+    {
+        "name": "Starbucks",
+        "address": "175 N. Fairview Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-683-8764",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1268",
+        "latitude": 34.4422916,
+        "longitude": -119.832381
+    },
+    {
+        "name": "Starbucks Drive-thru",
+        "address": "4749 Calle Real",
+        "city": "Santa Barbara",
+        "zip": "93105",
+        "phone": "+1-805-681-3272",
+        "categories": [
+            "Coffee"
+        ],
+        "opened": "2019-09",
+        "url": "https://www.santabarbara.com/dining/restaurants/2132",
+        "latitude": 34.44339746536589, 
+        "longitude": -119.7889740824068
+    },
+    {
+        "name": "Subway",
+        "address": "5801 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-683-8757",
+        "categories": [
+            "Deli"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1234",
+        "latitude": 34.4406318,
+        "longitude": -119.8266832
+    },
+    {
+        "name": "Subway",
+        "address": "6831 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-968-1964",
+        "categories": [
+            "Deli"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1229",
+        "latitude": 34.42953759290204, 
+        "longitude": -119.86705565943146
+    },
+    {
+        "name": "Sushi Ai",
+        "address": "7020 Marketplace Dr",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-571-6452",
+        "categories": [
+            "Japanese"
+        ],
+        "opened": "2011-07",
+        "url": "https://www.santabarbara.com/dining/restaurants/1686",
+        "latitude": 34.4295287,
+        "longitude": -119.8721987
+    },
+    {
+        "name": "Sushi Teri",
+        "address": "5746 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-9909",
+        "categories": [
+            "Japanese"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1132",
+        "latitude": 34.4416203,
+        "longitude": -119.824618
+    },
+    {
+        "name": "Taco Bell",
+        "address": "5890 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-5330",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1212",
+        "latitude": 34.436352459625645,
+        "longitude": -119.83046085894823
+    },
+    {
+        "name": "Taco Bell",
+        "address": "140 N. Fairview Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-2485",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1211",
+        "latitude": 34.4422877,
+        "longitude": -119.8303351
+    },
+    {
+        "name": "Takashi Ramen",
+        "address": "7060 Hollister Ave Suite 102",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-998-9789",
+        "categories": [
+            "Vietnamese"
+        ],
+        "opened": "2025-02",
+        "url": "https://www.santabarbara.com/dining/restaurants/2394",
+        "latitude": 34.4311745215074,
+        "longitude": -119.8740609813999
+    },
+    {
+        "name": "Tap Thai Cuisine",
+        "address": "7060 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-770-8089",
+        "categories": [
+            "Thai"
+        ],
+        "opened": "2021-10",
+        "url": "https://www.santabarbara.com/dining/restaurants/2227",
+        "latitude": 34.4311152,
+        "longitude": -119.8738434
+    },
+    {
+        "name": "Tapatia #3",
+        "address": "5764 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-683-3611",
+        "categories": [
+            "Mexican"
+        ],
+        "opened": "2013-06",
+        "url": "https://www.santabarbara.com/dining/restaurants/1797",
+        "latitude": 34.4359246,
+        "longitude": -119.8255228
+    },
+    {
+        "name": "Terra at he Steward Hotel",
+        "address": "5490 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-393-0492",
+        "categories": [
+            "Californian",
+            "Mediterranean"
+        ],
+        "opened": "2023-07",
+        "url": "https://www.santabarbara.com/dining/restaurants/2321",
+        "latitude": 34.43606769711027, 
+        "longitude": -119.81605397157281
+    },
+    {
+        "name": "The Deck",
+        "address": "6601 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1 ",
+        "categories": [
+            "American"
+        ],
+        "opened": "2017-11",
+        "url": "https://www.santabarbara.com/dining/restaurants/2038",
+        "latitude": 34.4297506,
+        "longitude": -119.8606732
+    },
+    {
+        "name": "The Ellwood",
+        "address": "5905 Sandspit Rd",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-335-2878",
+        "categories": [
+            "American",
+            "Seafood"
+        ],
+        "opened": "2025-02",
+        "url": "https://www.santabarbara.com/dining/restaurants/2391",
+        "latitude": 34.4170921,
+        "longitude": -119.8291552
+    },
+    {
+        "name": "The Nugget",
+        "address": "5687 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-5200",
+        "categories": [
+            "American"
+        ],
+        "opened": "2009-12",
+        "url": "https://www.santabarbara.com/dining/restaurants/1605",
+        "latitude": 34.440909811941786, 
+        "longitude": -119.82306175806409
+    },
+    {
+        "name": "Three Pickles Deli",
+        "address": "420 S. Fairview Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-4585",
+        "categories": [
+            "Deli"
+        ],
+        "opened": "2009-10",
+        "url": "https://www.santabarbara.com/dining/restaurants/1602",
+        "latitude": 34.4335984,
+        "longitude": -119.8305191
+    },
+    {
+        "name": "Timbers Roadhouse",
+        "address": "10 Winchester Canyon Rd",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-770-8140",
+        "categories": [
+            "American",
+            "Steakhouse"
+        ],
+        "opened": "2021-10",
+        "url": "https://www.santabarbara.com/dining/restaurants/2229",
+        "latitude": 34.4330443,
+        "longitude": -119.8993571
+    },
+    {
+        "name": "Trader Joes",
+        "address": "5767 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-692-2234",
+        "categories": [
+            "Markets"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1420",
+        "latitude": 34.4407421,
+        "longitude": -119.8250202
+    },
+    {
+        "name": "Uniboil",
+        "address": "5599 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-770-3875",
+        "categories": [
+            "Chinese"
+        ],
+        "opened": "2018-10",
+        "url": "https://www.santabarbara.com/dining/restaurants/2085",
+        "latitude": 34.435412097044754, 
+        "longitude": -119.82036627158372
+    },
+    {
+        "name": "Valentino's Take & Bake",
+        "address": "4421 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-967-7338",
+        "categories": [
+            "Pizza"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1032",
+        "latitude": 34.4303285,
+        "longitude": -119.8596785
+    },
+    {
+        "name": "Vons",
+        "address": "163 S. Turnpike Rd",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-967-2181",
+        "categories": [
+            "Deli",
+            "Markets"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1253",
+        "latitude": 34.4377215604614,
+        "longitude": -119.79053835422576
+    },
+    {
+        "name": "Wendy's",
+        "address": "5724 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-967-1338",
+        "categories": [
+            "Burgers"
+        ],
+        "opened": null,
+        "url": "https://www.santabarbara.com/dining/restaurants/1076",
+        "latitude": 34.43599087174647, 
+        "longitude": -119.82425029941491
+    },
+    {
+        "name": "White Caps Beach Club",
+        "address": "6769 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-705-6412",
+        "categories": [
+            "American"
+        ],
+        "opened": "2025-02",
+        "url": "https://www.santabarbara.com/dining/restaurants/2395",
+        "latitude": 34.4287342,
+        "longitude": -119.8655647
+    },
+    {
+        "name": "Wingstop",
+        "address": "129 N. Fairview Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-243-9464",
+        "categories": [
+            "American"
+        ],
+        "opened": "2024-11",
+        "url": "https://www.santabarbara.com/dining/restaurants/2380",
+        "latitude": 34.44153315338646, 
+        "longitude": -119.83285067652072
+    },
+    {
+        "name": "Yetz's Bagels",
+        "address": "250 Storke Rd #G",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-883-6414",
+        "categories": [],
+        "opened": "2026-02",
+        "url": "https://www.santabarbara.com/dining/restaurants/2554",
+        "latitude": 34.4294462,
+        "longitude": -119.8691992
+    },
+    {
+        "name": "Yogurtland",
+        "address": "5880 Calle Real",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-4402",
+        "categories": [
+            "Dessert"
+        ],
+        "opened": "2013-03",
+        "url": "https://www.santabarbara.com/dining/restaurants/1782",
+        "latitude": 34.441719,
+        "longitude": -119.8267853
+    },
+    {
+        "name": "Yummy Thai",
+        "address": "5918 Hollister Ave",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-964-2800",
+        "categories": [
+            "Thai"
+        ],
+        "opened": "2024-02",
+        "url": "https://www.santabarbara.com/dining/restaurants/2332",
+        "latitude": 34.43625954609407, 
+        "longitude": -119.8295596365243
+    },
+    {
+        "name": "Zapp Thai Asian Food Truck",
+        "address": "51 Santa Felicia Dr",
+        "city": "Goleta",
+        "zip": "93117",
+        "phone": "+1-805-679-3077",
+        "categories": [
+            "Japanese",
+            "Thai"
+        ],
+        "opened": "2025-06",
+        "url": "https://www.santabarbara.com/dining/restaurants/2413",
+        "latitude": 34.432155,
+        "longitude": -119.8762482
+    }
+]
