@@ -3,7 +3,7 @@
 **SBEats is an all-in-one app to find, rate, rank, and share restaurants in the SB area.**
 
 ## Demo
-
+https://drive.google.com/drive/folders/1WPU70cjSoBis5juDCT-QqnPvs-kbTx3s?usp=drive_link
 
 ## Tech Stack
 | Architecture | Technology/Framework |
