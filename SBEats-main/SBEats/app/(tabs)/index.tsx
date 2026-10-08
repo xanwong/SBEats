@@ -11,7 +11,7 @@ import IV_RESTAURANTS from '../../assets/iv_restaurants.json';
 import { getMyRatings, getRestaurantRatings } from '../../components/rating/ratingService';
 import computeOverallRating from '../ratings/compute';
 import computeStudyRating from '../ratings/computeStudyRating';
-import { useFocusEffect } from '@react-navigation/native';
+import { useFocusEffect } from 'expo-router/react-navigation';
 import { RatingDoc } from '../../components/rating/types';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Spacing } from '@/constants/design';

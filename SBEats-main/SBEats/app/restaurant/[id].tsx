@@ -14,7 +14,7 @@ import { ThemedView } from '@/components/themed-view';
 import { AppColor, Radius, Spacing, Typography } from '@/constants/design';
 import { getCalendarTheme } from '@/constants/calendar-theme';
 import Ionicons from '@expo/vector-icons/Ionicons';
-import { useFocusEffect } from "@react-navigation/native";
+import { useFocusEffect } from "expo-router/react-navigation";
 import { useColorScheme } from '@/hooks/use-color-scheme';
 import computeOverallRating from "../ratings/compute";
 import computeStudyRating from "../ratings/computeStudyRating";
@@ -548,7 +548,7 @@ const styles = StyleSheet.create({
   heroContainer: { position: 'relative', width: '100%', height: 280},
   hero: { width: '100%', height: '100%' },
   heroGradient: {
-    ...StyleSheet.absoluteFillObject,
+    ...StyleSheet.absoluteFill,
   },
   backButton: {
     position: 'absolute',

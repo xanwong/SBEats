@@ -13,6 +13,9 @@ export interface UserProfile {
   visitedDates?: {                 // Marked visited restaurants and dates
     [restaurantId: string]: string[]; 
   };
+  placesVisited?: number;          // Count of visited places
+  followingCount?: number;
+  followersCount?: number;
   createdAt?: Date;                // Account creation date 
   updatedAt?: Date;                // Last profile update date
 }

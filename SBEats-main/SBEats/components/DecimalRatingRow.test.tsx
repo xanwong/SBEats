@@ -2,16 +2,6 @@ import React from "react";
 import { fireEvent, render } from "@testing-library/react-native";
 import DecimalRatingRow from "../app/ratings/DecimalRatingRow";
 
-jest.mock("react-native", () => {
-  const mockReact = require("react");
-  return {
-    StyleSheet: { create: (styles: any) => styles },
-    View: (props: any) => mockReact.createElement("View", props, props.children),
-    Text: (props: any) => mockReact.createElement("Text", props, props.children),
-    Pressable: (props: any) => mockReact.createElement("Pressable", props, props.children),
-  };
-});
-
 jest.mock("@/components/themed-text", () => {
   const mockReact = require("react");
   const { Text } = require("react-native");
@@ -32,8 +22,8 @@ jest.mock("@react-native-community/slider", () => {
 });
 
 describe("DecimalRatingRow", () => {
-  it("renders label and formatted value", () => {
-    const { getByText } = render(
+  it("renders label and formatted value", async () => {
+    const { getByText } = await render(
       <DecimalRatingRow label="Food Quality" value={6} onChange={jest.fn()} />
     );
 
@@ -41,14 +31,14 @@ describe("DecimalRatingRow", () => {
     expect(getByText("6.0")).toBeTruthy();
   });
 
-  it("rounds slider updates to one decimal place before calling onChange", () => {
+  it("rounds slider updates to one decimal place before calling onChange", async () => {
     const onChange = jest.fn();
 
-    const { getByTestId } = render(
+    const { getByTestId } = await render(
       <DecimalRatingRow label="Service" value={5} onChange={onChange} />
     );
 
-    fireEvent.press(getByTestId("mock-slider"));
+    await fireEvent.press(getByTestId("mock-slider"));
 
     expect(onChange).toHaveBeenCalledWith(7.3);
   });
